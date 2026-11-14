@@ -50,9 +50,82 @@
   <!-- GROUP 2: Canadian Channels                 -->
   <!-- Source: tvpassport.com                      -->
   <!-- ========================================== -->
-
+  <channel site="tvpassport.com" site_id="ae-canada-hd/3886" lang="en" xmltv_id="">A&amp;E Canada HD</channel>
+  <channel site="tvpassport.com" site_id="ae-canada/4311" lang="en" xmltv_id="">A&amp;E Canada</channel>
+  <channel site="tvpassport.com" site_id="amc--canada-hd/8368" lang="en" xmltv_id="">AMC - Canada HD</channel>
+  <channel site="tvpassport.com" site_id="amc--canada/3822" lang="en" xmltv_id="">AMC - Canada</channel>
+  <channel site="tvpassport.com" site_id="bein-sport-canada/13246" lang="en" xmltv_id="">beIN Sport Canada</channel>
+  <channel site="tvpassport.com" site_id="bein-sport-espanol-canada-hd/13249" lang="en" xmltv_id="">beIN Sport Espanol Canada HD</channel>
+  <channel site="tvpassport.com" site_id="bein-sport-espanol-canada/13248" lang="en" xmltv_id="">beIN Sport Espanol Canada</channel>
+  <channel site="tvpassport.com" site_id="bloomberg-tv-canada-hd/17193" lang="en" xmltv_id="">Bloomberg TV Canada HD</channel>
+  <channel site="tvpassport.com" site_id="bloomberg-tv-canada/17045" lang="en" xmltv_id="">Bloomberg TV Canada</channel>
+  <channel site="tvpassport.com" site_id="capital-networks-cmt-canada/9858" lang="en" xmltv_id="">Capital Networks: CMT Canada</channel>
+  <channel site="tvpassport.com" site_id="cmt-canada-hd/11325" lang="en" xmltv_id="">CMT Canada HD</channel>
+  <channel site="tvpassport.com" site_id="capital-networks-e-canada/13737" lang="en" xmltv_id="">Capital Networks: E! Canada</channel>
+  <channel site="tvpassport.com" site_id="capital-networks-history-canada/13733" lang="en" xmltv_id="">Capital Networks: History Canada</channel>
+  <channel site="tvpassport.com" site_id="capital-networks-showcase-canada/13735" lang="en" xmltv_id="">Capital Networks: Showcase Canada</channel>
+  <channel site="tvpassport.com" site_id="cartoon-network-canada--east-dv/3964" lang="en" xmltv_id="">Cartoon Network Canada - East DV</channel>
+  <channel site="tvpassport.com" site_id="cartoon-network-canada--east-hd/10331" lang="en" xmltv_id="">Cartoon Network Canada - East HD</channel>
+  <channel site="tvpassport.com" site_id="cartoon-network-canada--east/162" lang="en" xmltv_id="">Cartoon Network Canada - East</channel>
+  <channel site="tvpassport.com" site_id="cartoon-network-canada--west-dv/3965" lang="en" xmltv_id="">Cartoon Network Canada - West DV</channel>
+  <channel site="tvpassport.com" site_id="cartoon-network-canada--west-hd/10332" lang="en" xmltv_id="">Cartoon Network Canada - West HD</channel>
+  <channel site="tvpassport.com" site_id="cartoon-network-canada--west/1020" lang="en" xmltv_id="">Cartoon Network Canada - West</channel>
   <channel site="tvpassport.com" site_id="cbc--network/1228" lang="en" xmltv_id="CBC.ca">CBC Network</channel>
   <channel site="tvpassport.com" site_id="cbc-news-network/13730" lang="en" xmltv_id="CBCNews.ca">CBC News Network</channel>
+  <channel site="tvpassport.com" site_id="cbc--network-hd/14173" lang="en" xmltv_id="">CBC - Network HD</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbat-2-moncton-nb-hd/10883" lang="en" xmltv_id="">CBC (CBAT-2) Moncton, NB HD</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbat-2-moncton-nb/3321" lang="en" xmltv_id="">CBC (CBAT-2) Moncton, NB</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbat-3-chatham-nb/3322" lang="en" xmltv_id="">CBC (CBAT-3) Chatham, NB</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbat-4-campbellton-nb/3323" lang="en" xmltv_id="">CBC (CBAT-4) Campbellton, NB</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbat-fredericton-nb/114" lang="en" xmltv_id="">CBC (CBAT) Fredericton, NB</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbct-charlottetown-pe-hd/6803" lang="en" xmltv_id="">CBC (CBCT) Charlottetown, PE HD</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbct-charlottetown-pe/119" lang="en" xmltv_id="">CBC (CBCT) Charlottetown, PE</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbet-windsor-on-hd/6804" lang="en" xmltv_id="">CBC (CBET) Windsor, ON HD</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbht-halifax-ns-dv/8376" lang="en" xmltv_id="">CBC (CBHT) Halifax, NS DV</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbht-halifax-ns-hd/6805" lang="en" xmltv_id="">CBC (CBHT) Halifax, NS HD</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbjet-chicoutimi-qc/4885" lang="en" xmltv_id="">CBC (CBJET) Chicoutimi, QC</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbkst-saskatoon-sk-dv/7588" lang="en" xmltv_id="">CBC (CBKST) Saskatoon, SK DV</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbkst-saskatoon-sk/7389" lang="en" xmltv_id="">CBC (CBKST) Saskatoon, SK</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbkt-regina-sk-hd/6806" lang="en" xmltv_id="">CBC (CBKT) Regina, SK HD</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbkt-regina-sk/225" lang="en" xmltv_id="">CBC (CBKT) Regina, SK</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbln-london-on/2720" lang="en" xmltv_id="">CBC (CBLN) London, ON</channel>
+  <channel site="tvpassport.com" site_id="cbc-cblt-dt4-north-bay-on/14858" lang="en" xmltv_id="">CBC (CBLT-DT4) North Bay, ON</channel>
+  <channel site="tvpassport.com" site_id="cbc-cblt-dt6-sudbury-on/610" lang="en" xmltv_id="">CBC (CBLT-DT6) Sudbury, ON</channel>
+  <channel site="tvpassport.com" site_id="cbc-cblt-toronto-on-dv/3929" lang="en" xmltv_id="">CBC (CBLT) Toronto, ON DV</channel>
+  <channel site="tvpassport.com" site_id="cbc-cblt-toronto-on-hd/2826" lang="en" xmltv_id="">CBC (CBLT) Toronto, ON HD</channel>
+  <channel site="tvpassport.com" site_id="cbc-cblt-tv-1-toronto-on/13588" lang="en" xmltv_id="">CBC (CBLT-TV-1) Toronto, ON</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbmt-montreal-qc-hd/4022" lang="en" xmltv_id="">CBC (CBMT) Montreal, QC HD</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbnt-st-johns-nl-hd/6807" lang="en" xmltv_id="">CBC (CBNT) St-John&apos;s, NL HD</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbnt-st-johns-nl/200" lang="en" xmltv_id="">CBC (CBNT) St-John&apos;s, NL</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbot-ottawa-on-hd/6808" lang="en" xmltv_id="">CBC (CBOT) Ottawa, ON HD</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbrt-calgary-ab-hd/6809" lang="en" xmltv_id="">CBC (CBRT) Calgary, AB HD</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbut-vancouver-bc-dv/3930" lang="en" xmltv_id="">CBC (CBUT) Vancouver, BC DV</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbut-vancouver-bc-hd/6257" lang="en" xmltv_id="">CBC (CBUT) Vancouver, BC HD</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbwt-winnipeg-mb-dv/3941" lang="en" xmltv_id="">CBC (CBWT) Winnipeg, MB DV</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbwt-winnipeg-mb-hd/6810" lang="en" xmltv_id="">CBC (CBWT) Winnipeg, MB HD</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbxt-edmonton-ab-dv/8385" lang="en" xmltv_id="">CBC (CBXT) Edmonton, AB DV</channel>
+  <channel site="tvpassport.com" site_id="cbc-cbxt-edmonton-ab-hd/6811" lang="en" xmltv_id="">CBC (CBXT) Edmonton, AB HD</channel>
+  <channel site="tvpassport.com" site_id="cbc-cffb-iqaluit-nv-hd/9206" lang="en" xmltv_id="">CBC (CFFB) Iqaluit, NV HD</channel>
+  <channel site="tvpassport.com" site_id="cbc-cffb-iqaluit-nv/152" lang="en" xmltv_id="">CBC (CFFB) Iqaluit, NV</channel>
+  <channel site="tvpassport.com" site_id="cbc-cfla-goose-bay-nl/7369" lang="en" xmltv_id="">CBC (CFLA) Goose Bay, NL</channel>
+  <channel site="tvpassport.com" site_id="cbc-cfwh-whitehorse-yk-hd/8627" lang="en" xmltv_id="">CBC (CFWH) Whitehorse, YK HD</channel>
+  <channel site="tvpassport.com" site_id="cbc-cfwh-whitehorse-yk/8626" lang="en" xmltv_id="">CBC (CFWH) Whitehorse, YK</channel>
+  <channel site="tvpassport.com" site_id="cbc-cfwh-whitehorse-yt/202" lang="en" xmltv_id="">CBC (CFWH) Whitehorse, YT</channel>
+  <channel site="tvpassport.com" site_id="cbc-cfyk-yellowknife-nwt-hd/8028" lang="en" xmltv_id="">CBC (CFYK) Yellowknife, NWT HD</channel>
+  <channel site="tvpassport.com" site_id="cbc-cfyk-yellowknife-nwt/8027" lang="en" xmltv_id="">CBC (CFYK) Yellowknife, NWT</channel>
+  <channel site="tvpassport.com" site_id="cbc-chsj-saint-john-nb/3320" lang="en" xmltv_id="">CBC (CHSJ) Saint John, NB</channel>
+  <channel site="tvpassport.com" site_id="cbc-cjfb-swift-current-sk/572" lang="en" xmltv_id="">CBC (CJFB) Swift Current, Sk</channel>
+  <channel site="tvpassport.com" site_id="cbc-ckbi-prince-albert-sk/231" lang="en" xmltv_id="">CBC (CKBI) Prince Albert, SK</channel>
+  <channel site="tvpassport.com" site_id="cbc-ckos-yorkton-sk/485" lang="en" xmltv_id="">CBC (CKOS) Yorkton, SK</channel>
+  <channel site="tvpassport.com" site_id="cbc-music-montreal-935-cbm/35694" lang="en" xmltv_id="">CBC Music Montreal 93.5 (CBM)</channel>
+  <channel site="tvpassport.com" site_id="cbc-news-network-hd/6421" lang="en" xmltv_id="">CBC News Network HD</channel>
+  <channel site="tvpassport.com" site_id="cbc-north-nwt/348" lang="en" xmltv_id="">CBC (North) NWT</channel>
+  <channel site="tvpassport.com" site_id="cbc-on-demand/6787" lang="en" xmltv_id="">CBC On Demand</channel>
+  <channel site="tvpassport.com" site_id="cbc-radio-1-french/33422" lang="en" xmltv_id="">CBC Radio 1 French</channel>
+  <channel site="tvpassport.com" site_id="cbc-radio-one--dtv/33423" lang="en" xmltv_id="">CBC Radio One + DTV</channel>
+  <channel site="tvpassport.com" site_id="cbc-radio-one-quebec-939-cbmz/35717" lang="en" xmltv_id="">CBC Radio One Quebec 93.9 (CBMZ)</channel>
+  <channel site="tvpassport.com" site_id="cbc-radio-one-quebec-1047-cbve/37550" lang="en" xmltv_id="">CBC Radio One Quebec 104.7 (CBVE)</channel>
+  <channel site="tvpassport.com" site_id="capital-networks-sportsnet-360/11287" lang="en" xmltv_id="">Capital Networks: Sportsnet 360</channel>
   <channel site="tvpassport.com" site_id="ctv-toronto-cfto/13726" lang="en" xmltv_id="CTVHT.ca">CTV Toronto</channel>
   <channel site="tvpassport.com" site_id="ctv-news-channel/13731" lang="en" xmltv_id="CTVNC.ca">CTV News Channel</channel>
   <channel site="tvpassport.com" site_id="ctv-drama-channel/6798" lang="en" xmltv_id="CTVDrama.ca">CTV Drama</channel>
@@ -70,6 +143,8 @@
   <channel site="tvpassport.com" site_id="tsn4/9845" lang="en" xmltv_id="TSN4.ca">TSN 4</channel>
   <channel site="tvpassport.com" site_id="tsn5/278" lang="en" xmltv_id="TSN5.ca">TSN 5</channel>
   <channel site="tvpassport.com" site_id="global-television-network-ciii/13421" lang="en" xmltv_id="CIII.ca">Global Toronto</channel>
+  
+  
 
   <!-- ========================================== -->
   <!-- GROUP 3: USA Channels                      -->
